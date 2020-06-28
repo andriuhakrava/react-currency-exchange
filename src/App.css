@@ -1,0 +1,17 @@
+.currency-flag.AUD, .CAD, .USD, .JPY, .NZD, .GBP {
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: 30px auto; 
+}
+
+.currency-flag.AUD {background-image: url('./images/aud.png')}
+.currency-flag.CAD {background-image: url('./images/cad.png')}
+.currency-flag.USD {background-image: url('./images/usd.png')}
+.currency-flag.JPY {background-image: url('./images/jpy.png')}
+.currency-flag.NZD {background-image: url('./images/nzd.png')}
+.currency-flag.GBP {background-image: url('./images/gbp.png')}
+
+
+.currency-title {
+  padding-left: 45px;
+}
